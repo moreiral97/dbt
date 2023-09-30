@@ -9,11 +9,11 @@
 <p> Package DBT: https://hub.getdbt.com/ </p>
 
 ### Trabalho em grupo
-[  ] adicionar tabela REGION
-[  ] melhorar ecosistema:
-[  ] orquestracao
-[  ] governanca
-[  ] data quality
-[  ] ETL reverso (OLAP --> OLTP)
-[  ] observability (elementary)
-[  ] testes (dbt-expectations)
+** adicionar tabela REGION </p>
+** melhorar ecosistema </p>
+** orquestracao </p>
+** governanca </p>
+** data quality </p>
+** ETL reverso (OLAP --> OLTP) </p>
+** observability (elementary) </p>
+** testes (dbt-expectations) </p>
